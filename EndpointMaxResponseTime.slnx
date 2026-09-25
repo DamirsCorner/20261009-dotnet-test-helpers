@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="EndpointMaxResponseTime.Tests/EndpointMaxResponseTime.Tests.csproj" />
+  <Project Path="EndpointMaxResponseTime/EndpointMaxResponseTime.csproj" />
+</Solution>
